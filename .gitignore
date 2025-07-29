@@ -1,0 +1,4 @@
+/.venv
+/checkpoints
+/tensorboard
+/test.zip
